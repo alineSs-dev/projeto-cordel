@@ -20,7 +20,7 @@ O projeto apresenta o poema Cordel Moderno em uma página web com efeito paralla
 
 Acesse a página:
 
-https://aliness-dev-projeto-corde.github.io/
+https://aliness-dev.github.io/projeto-cordel/
 
 ## Referência
 
